@@ -1,6 +1,6 @@
 # Project paper on the fighting robot project
 
-The paper contains detailed information including:
+The paper contains detailed information, including:
 1. Project idea
 2. Project plan
 3. Task distribution
