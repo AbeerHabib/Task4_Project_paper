@@ -1,4 +1,4 @@
-# Project-paper-for-fighting-robots-project
+# Project paper on the fighting robot project
 
 The paper contains detailed information including:
 1. Project idea
